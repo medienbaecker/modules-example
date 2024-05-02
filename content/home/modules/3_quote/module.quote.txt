@@ -1,0 +1,13 @@
+Title: Quote
+
+----
+
+Quote: Poyo poyo poyo
+
+----
+
+Author: Kirbo
+
+----
+
+Uuid: UoD7Kl9b3oYGFpLb

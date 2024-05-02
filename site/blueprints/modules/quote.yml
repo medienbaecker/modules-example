@@ -1,0 +1,9 @@
+title: Quote
+fields:
+  quote:
+    type: text
+    before: '“'
+    after: '”'
+  author:
+    type: text
+    before: '–'
