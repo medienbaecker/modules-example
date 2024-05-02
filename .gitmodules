@@ -1,0 +1,3 @@
+[submodule "site/plugins/kirby-modules"]
+	path = site/plugins/kirby-modules
+	url = https://medienbaecker@github.com/medienbaecker/kirby-modules
